@@ -1,0 +1,18 @@
+{"info":{"year":"2024",
+ "version":"1",
+ "description":"Exported from roboflow.com",
+ "contributor":"",
+ "url":"https://public.roboflow.com/object-detection/undefined",
+ "date_created":"2024-03-14T18:50:31+00:00"},
+ "licenses":[{"id":1,"url":"https://creativecommons.org/licenses/by/4.0/",
+ "name":"CC BY 4.0"}],
+ "categories":[{"id":0,"name":"Dislocation","supercategory":"none"}, {"id":1,"name":"Dislocation","supercategory":"Dislocation"}],
+ "images":[{"id":0,"license":1,"file_name":"dislocation_2_jpg.rf.316860797d6d46a3d9a6cafffdd2a847.jpg","height":255,"width":255,"date_captured":"2024-03-14T18:50:31+00:00"},
+           {"id":1,"license":1,"file_name":"dislocation_29_jpg.rf.15a953d3a57f7f39ad1e608da91b82a8.jpg","height":255,"width":255,"date_captured":"2024-03-14T18:50:31+00:00"},
+           {"id":2,"license":1,"file_name":"dislocation_27_jpg.rf.dda303c953df0e505efff349d494b38d.jpg","height":255,"width":255,"date_captured":"2024-03-14T18:50:31+00:00"},
+           {"id":3,"license":1,"file_name":"dislocation_11_jpg.rf.d1bcaf0b0899e2e9a63faa1844d3573b.jpg","height":255,"width":255,"date_captured":"2024-03-14T18:50:31+00:00"}],
+"annotations":[
+{"id":0,"image_id":0,"category_id":1,"bbox":[47,159,120,55.5],"area":6660,"segmentation":[],"iscrowd":0},
+{"id":1,"image_id":1,"category_id":1,"bbox":[18,166,151,64.5],"area":9739.5,"segmentation":[],"iscrowd":0},
+{"id":2,"image_id":2,"category_id":1,"bbox":[0,68,80,82],"area":6560,"segmentation":[],"iscrowd":0},
+{"id":3,"image_id":3,"category_id":1,"bbox":[55,97,162,34.5],"area":5589,"segmentation":[],"iscrowd":0}]}
